@@ -37,3 +37,4 @@ A terminal based python game for Clash of Clans
 The replays are stored in replays folder
 
 ---
+
